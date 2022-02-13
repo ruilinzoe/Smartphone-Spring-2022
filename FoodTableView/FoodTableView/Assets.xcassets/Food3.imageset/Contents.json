@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "Seattle3.jpg",
+      "filename" : "banana.jpeg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "Seattle3@2x.jpg",
+      "filename" : "banana@2x.jpeg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "Seattle3@3x.jpg",
+      "filename" : "banana@3x.jpeg",
       "idiom" : "universal",
       "scale" : "3x"
     }

@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "Seattle9.jpg",
+      "filename" : "fish.jpeg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "Seattle9@2x.jpg",
+      "filename" : "fish@2x.jpeg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "Seattle9@3x.jpg",
+      "filename" : "fish@3x.jpeg",
       "idiom" : "universal",
       "scale" : "3x"
     }

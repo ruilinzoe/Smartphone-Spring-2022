@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "Seattle7.jpg",
+      "filename" : "mellon.jpeg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "Seattle7@2x.jpg",
+      "filename" : "mellon@2x.jpeg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "Seattle7@3x.jpg",
+      "filename" : "mellon@3x.jpeg",
       "idiom" : "universal",
       "scale" : "3x"
     }
