@@ -44,11 +44,11 @@ class ViewController: UIViewController {
             print(stocks)
             
             let quote=Quote()
-            quote.symbol=stock["symbol"].stringValue
-            quote.change=stock["change"].floatValue
+            quote.open=stock["open"].floatValue
+            quote.close=stock["close"].floatValue
 //            quote.volume=stock["volume"].intValue
             
-            self.lblStockPrice.text="\(quote.symbol) Change:\(quote.change)$"
+            self.lblStockPrice.text="Open Price:\(quote.open)$"
         }
     }
 }

@@ -8,10 +8,8 @@
 import Foundation
 
 class Quote{
-    var symbol : String=""
-    var name : String="";
-    var change : Float=0.0;
-  
-//    var marketCap: Float=0.0;
-//    var StockPrice: Float=0.0;
+//    var symbol : String=""
+//    var name : String="";
+    var open : Float=0.0;
+    var close : Float=0.0;
 }
