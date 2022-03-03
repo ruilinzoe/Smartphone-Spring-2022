@@ -15,7 +15,7 @@
 		ACD4708027D0832500748976 /* URLs.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACD4707F27D0832500748976 /* URLs.swift */; };
 		ACD4708227D0842E00748976 /* APIkeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACD4708127D0842E00748976 /* APIkeys.swift */; };
 		ACD4708427D085B000748976 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACD4708327D085B000748976 /* ViewController.swift */; };
-		ACD4708627D0A6E400748976 /* QuoteShort.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACD4708527D0A6E300748976 /* QuoteShort.swift */; };
+		ACD4708627D0A6E400748976 /* Quote.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACD4708527D0A6E300748976 /* Quote.swift */; };
 		CAE7638B93B90178E4FDD227 /* Pods_NailStock.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B401869E0134605D651A7130 /* Pods_NailStock.framework */; };
 /* End PBXBuildFile section */
 
@@ -32,7 +32,7 @@
 		ACD4707F27D0832500748976 /* URLs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLs.swift; sourceTree = "<group>"; };
 		ACD4708127D0842E00748976 /* APIkeys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIkeys.swift; sourceTree = "<group>"; };
 		ACD4708327D085B000748976 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		ACD4708527D0A6E300748976 /* QuoteShort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteShort.swift; sourceTree = "<group>"; };
+		ACD4708527D0A6E300748976 /* Quote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quote.swift; sourceTree = "<group>"; };
 		B401869E0134605D651A7130 /* Pods_NailStock.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NailStock.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -102,7 +102,7 @@
 		ACD4707A27D080A700748976 /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				ACD4708527D0A6E300748976 /* QuoteShort.swift */,
+				ACD4708527D0A6E300748976 /* Quote.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -248,7 +248,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ACD4708427D085B000748976 /* ViewController.swift in Sources */,
-				ACD4708627D0A6E400748976 /* QuoteShort.swift in Sources */,
+				ACD4708627D0A6E400748976 /* Quote.swift in Sources */,
 				ACD4706627D0803900748976 /* AppDelegate.swift in Sources */,
 				ACD4708227D0842E00748976 /* APIkeys.swift in Sources */,
 				ACD4706827D0803900748976 /* SceneDelegate.swift in Sources */,

@@ -7,4 +7,4 @@
 
 import Foundation
 
-let shortQuoteURL="https://financialmodelingprep.com/api/v3/quote-short/"
+let shortQuoteURL="https://financialmodelingprep.com/api/v3/quote/"

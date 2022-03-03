@@ -43,12 +43,12 @@ class ViewController: UIViewController {
             }
             print(stocks)
             
-            let quote=QuoteShort()
+            let quote=Quote()
             quote.symbol=stock["symbol"].stringValue
-            quote.price=stock["price"].floatValue
-            quote.volume=stock["volume"].intValue
+            quote.change=stock["change"].floatValue
+//            quote.volume=stock["volume"].intValue
             
-            self.lblStockPrice.text="\(quote.symbol):\(quote.price)$"
+            self.lblStockPrice.text="\(quote.symbol) Change:\(quote.change)$"
         }
     }
 }
