@@ -9,6 +9,6 @@ import Foundation
 
 class QuoteShort{
     var symbol : String=""
-    var value : Int=0;
+    var volume : Int=0;
     var price : Float=0.0;
 }
