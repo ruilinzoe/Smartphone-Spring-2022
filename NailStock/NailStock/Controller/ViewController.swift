@@ -10,6 +10,7 @@ import SwiftyJSON
 import SwiftSpinner
 import Alamofire
 
+
 class ViewController: UIViewController {
 
     @IBOutlet weak var txtStockSymbol: UITextField!
